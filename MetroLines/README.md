@@ -9,7 +9,7 @@ The program simulates a **train network system** where:
 - Users can **create stations and connect them** with metro lines.
 - Trains can be **added and moved** along their designated routes.
 - A **trip planner** helps users find a path between two stations.
-- (Optional) **Extra credit**: Implementing a step functionality where trains move automatically.
+- Implemented a step functionality where trains move automatically.
 
 ---
 
