@@ -1,0 +1,3 @@
+C:/Users/JumiF/CLionProjects/ProccessManagerProj/cmake-build-debug/CMakeFiles/ProccessManagerProj.dir
+C:/Users/JumiF/CLionProjects/ProccessManagerProj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JumiF/CLionProjects/ProccessManagerProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

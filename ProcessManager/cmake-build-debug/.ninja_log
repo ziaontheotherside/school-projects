@@ -1,0 +1,8 @@
+# ninja log v5
+1	894	6922231623935949	CMakeFiles/ProccessManagerProj.dir/main.cpp.obj	c855a890273a5d77
+70	3029	6922528592952762	CMakeFiles/ProccessManagerProj.dir/Process.cpp.obj	28af108102948047
+3976	5087	6922530202568344	ProccessManagerProj.exe	9b09ad935403ac1
+29	3481	6922530186226009	CMakeFiles/ProccessManagerProj.dir/Lstack.cpp.obj	b62afc486af0904c
+6	3562	6922530187974755	CMakeFiles/ProccessManagerProj.dir/proj5.cpp.obj	f3af9e70a5b14dd1
+2	672	6922531039365509	build.ninja	7d2892fce06c5cb5
+49	3975	6922530192364914	CMakeFiles/ProccessManagerProj.dir/Processor.cpp.obj	37a90aee11896cf4

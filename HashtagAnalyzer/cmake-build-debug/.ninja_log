@@ -1,0 +1,26 @@
+# ninja log v5
+2	794	6860842799317877	CMakeFiles/proj1.dir/prelabseptember.cpp.obj	bdd3b6c70ce35a4d
+795	1081	6860842801937482	proj1.exe	ca53ac430a6c01d7
+3	538	6860869569065872	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+2	442	6860869919395404	CMakeFiles/proj1.dir/prelabseptember.cpp.obj	bdd3b6c70ce35a4d
+3	512	6860875472655353	CMakeFiles/proj1.dir/prelabseptember.cpp.obj	bdd3b6c70ce35a4d
+3	514	6860875600404731	CMakeFiles/proj1.dir/prelabseptember.cpp.obj	bdd3b6c70ce35a4d
+3	116	6860876356702370	CMakeFiles/proj1.dir/prelabseptember.cpp.obj	bdd3b6c70ce35a4d
+10	492	6860876360458728	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+493	687	6860876362303357	proj1.exe	cb8ccc323a50bea
+4	504	6860882223136475	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+505	751	6860882225378620	proj1.exe	cb8ccc323a50bea
+3	460	6860882955282410	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+461	621	6860882956839850	proj1.exe	cb8ccc323a50bea
+3	469	6860884451437983	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+470	655	6860884453243681	proj1.exe	cb8ccc323a50bea
+3	540	6860887665357029	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+541	779	6860887667671252	proj1.exe	cb8ccc323a50bea
+3	444	6860889236731252	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+444	629	6860889238492372	proj1.exe	cb8ccc323a50bea
+2	557	6860893780830630	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+559	757	6860893782774494	proj1.exe	cb8ccc323a50bea
+3	531	6860895612000266	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+532	707	6860895613695933	proj1.exe	cb8ccc323a50bea
+4	604	6860896069875242	CMakeFiles/proj1.dir/proj1.cpp.obj	b2c7832ce3c6c241
+605	804	6860896071832297	proj1.exe	cb8ccc323a50bea

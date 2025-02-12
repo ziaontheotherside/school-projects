@@ -1,0 +1,8 @@
+# ninja log v5
+37	274	6874078767061790	CMakeFiles/UMBCRacer.dir/PlayerProj.cpp.obj	7f36752f17d5ce95
+0	579	6874078770132145	CMakeFiles/UMBCRacer.dir/main.cpp.obj	5a78126ab72b2264
+47	655	6874078770844627	CMakeFiles/UMBCRacer.dir/Track.cpp.obj	c86031a10e6667b7
+3	446	6874086277243699	CMakeFiles/UMBCRacer.dir/player.cpp.obj	4ab3011ca9f2c5b2
+10	480	6874086277585293	CMakeFiles/UMBCRacer.dir/Race.cpp.obj	ba964333426c20c6
+480	626	6874086278986160	UMBCRacer.exe	1c69f024bee8a820
+3	460	6874079317295526	CMakeFiles/UMBCRacer.dir/proj2.cpp.obj	40e1b9de06fc2b11
