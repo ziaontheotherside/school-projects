@@ -44,7 +44,7 @@ This program **does not use built-in C++ STL lists**—instead, it demonstrates 
 ---
 
 ## 🚀 **Why This Matters**
-This project highlights my ability to:
+This project highlights my ability to:  
 ✔️ **Work with complex data structures in C++**.  
 ✔️ **Apply OOP principles effectively**.  
 ✔️ **Manage memory efficiently to avoid leaks** (no STL lists used).  
