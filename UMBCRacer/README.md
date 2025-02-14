@@ -52,7 +52,7 @@ The game loops until the player quits.
 ---
 
 ## 🚀 **Why This Matters**
-This project highlights my ability to:
+This project highlights my ability to:  
 ✔️ **Develop structured C++ applications using OOP principles**.  
 ✔️ **Handle user input, game logic, and randomized AI behavior**.  
 ✔️ **Manage a multi-file C++ project with modular code**.  
