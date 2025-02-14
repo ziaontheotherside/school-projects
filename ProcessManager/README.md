@@ -57,7 +57,7 @@ This project **demonstrates structured C++ programming, data structures, and sys
 ---
 
 ## 🚀 **Why This Matters**
-This project highlights my ability to:
+This project highlights my ability to:  
 ✔️ **Implement complex data structures (linked lists, stacks) from scratch.**  
 ✔️ **Develop modular, object-oriented C++ applications.**  
 ✔️ **Manage memory effectively to prevent leaks in dynamic structures.**  
