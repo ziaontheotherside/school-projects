@@ -54,7 +54,7 @@ The game features **different enemy types (Zergling, Mutalisk, Hydralisk)** with
 ---
 
 ## 🚀 **Why This Matters**
-This project highlights my ability to:
+This project highlights my ability to:  
 ✔️ **Develop structured C++ applications using OOP principles**.  
 ✔️ **Implement polymorphism & dynamic memory management**.  
 ✔️ **Design AI logic for enemy encounters & game mechanics**.  
