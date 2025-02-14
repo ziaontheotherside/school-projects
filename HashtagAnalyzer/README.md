@@ -47,7 +47,7 @@ This project **demonstrates structured C++ programming, file input/output, and a
 ---
 
 ## 🚀 **Why This Matters**
-This project highlights my ability to:
+This project highlights my ability to:  
 ✔️ **Process large-scale text data efficiently**.  
 ✔️ **Use structured programming in C++ with functions and arrays**.  
 ✔️ **Implement basic string manipulation and text parsing**.  
